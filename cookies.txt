@@ -1,0 +1,28 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.classcentral.com	TRUE	/report/	FALSE	1999999999	ppwp_wp_session	3305837d4435cac971470508e3f3c78f%7C%7C1678771509%7C%7C1678771149
+www.classcentral.com	TRUE	/	FALSE	1999999999	PHPSESSID	jurao8a1sihhggrhqvqk5o7pqt
+www.classcentral.com	TRUE	/	FALSE	1999999999	samesite	lax
+www.linkedin.com	TRUE	/	FALSE	1999999999	JSESSIONID	ajax:5970487794430590358
+.www.linkedin.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.linkedin.com	TRUE	/	FALSE	1999999999	lang	v=2&lang=en-us
+.linkedin.com	TRUE	/	FALSE	1999999999	lidc	b=VGST08:s=V:r=V:a=V:p=V:g=2530:u=1:x=1:i=1678766330:t=1678852730:v=2:sig=AQG1VbN43WgCnb0V8ockaJGQHheqqs4V"
+github.com	TRUE	/	FALSE	1999999999	_gh_sess	YCixFLSHrHqC5E2LQ6Qjy%2FYJGyDY%2BDB%2F2w2slNPZfB57RrseStdg3W8XmIDN4BsN6gVmY9kdjiONTX63mkwsyKIxlrYd8j28dT9nL%2FLlIBPIo5or3g7D1WL03w9tdVMzTo4HnxlxuySJ5Pm%2BhwvdYYK0CcYMoOoFLa%2FE7Mh%2Fy9dqwwkP0rLFMXwKLnlhN%2F1VKFuwQhs%2FYcKQ4BMSThfFDGmRcZFB2tBeos57nRKlKN7hkpWoDCv9nLfzdaNAA4xQbPEkUWdELqxh5dx%2Bdi%2BT1g%3D%3D--yTKKqcrhQS2OMOWw--ObY2xUubquPCarxn9wlwUg%3D%3D
+github.com	TRUE	/	FALSE	1999999999	_octo	GH1.1.949244193.1678766331
+github.com	TRUE	/	FALSE	1999999999	logged_in	no
+github.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.youtube.com	TRUE	/	FALSE	1999999999	GPS	1
+.youtube.com	TRUE	/	FALSE	1999999999	YSC	ET6hhQupnas
+.youtube.com	TRUE	/	FALSE	1999999999	VISITOR_INFO1_LIVE	RSKIWPct2y8
+www.youtube.com	TRUE	/	FALSE	1999999999	SameSite	none
+.w3.org	TRUE	/	FALSE	1999999999	__cf_bm	88x43u7vnZ8ssZDNl0RbNXmagBCHXjTnOlLKHknAnsw-1678767283-0-AW8xe78Saxk2PkV5WPXFr4WAy9ariiqTOwzmRKmzk5694mzBgu8ZFhADgVFDo30FL4HAYaQu9YT3DkhEqCGLxJw=
+www.w3.org	TRUE	/	FALSE	1999999999	SameSite	None
+.linkedin.com	TRUE	/	FALSE	1999999999	bcookie	v=2&961647c4-2d75-4e26-8d66-6fd76453cbe8"
+.www.linkedin.com	TRUE	/	FALSE	1999999999	bscookie	v=1&202303140425057ba35326-ed10-4424-8804-8621c3edd09eAQGBM1k8_b4GvynxEEiVbXoysXHBB4Ov"
+www.linkedin.com	TRUE	/	FALSE	1999999999	SameSite	None
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id_ads	v1%3A167876812560896401
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id_marketing	v1%3A167876812560896401
+.twitter.com	TRUE	/	FALSE	1999999999	personalization_id	v1_9uw7x8++Q/hA1E147NVEaw=="
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id	v1%3A167876812560896401
+.twitter.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
